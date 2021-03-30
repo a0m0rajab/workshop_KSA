@@ -1,10 +1,24 @@
-# workshop_KSA
-An awesome workshop about Open source.
+# Introduction To Open Source
 
-Attendance: 
+We ensure you that the people below there have attended a workshop about open source project. 
 
-حمد
+The workshop talked about open source and the tools that are being used in it and how to use it at your work.
 
-عبدالرحمن عبداللطيف
+# Practice
 
-عبدالله فهد محمدالغفيص
+The practice was to do the next steps: 
+
+1. Sign up to GitHub
+2. Fork a repo. 
+3. Add their names in the table. 
+4. Commit. 
+5. open a PR. 
+
+# Audience: 
+
+|     Name    | 
+|:-----------:|
+| حمد |   
+| حمد |    
+| عبدالرحمن عبداللطيف |   
+| عبدالله فهد محمدالغفيص |
