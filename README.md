@@ -2,4 +2,9 @@
 An awesome workshop about Open source.
 
 Attendance: 
-عبدالرحمن عبداللطيف حمد
+
+حمد
+
+عبدالرحمن عبداللطيف
+
+عبدالله فهد محمدالغفيص
